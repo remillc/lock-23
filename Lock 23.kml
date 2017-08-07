@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lock 23</name>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="default1">
+	</Style>
+	<Folder>
+		<name>Lock 23</name>
+		<description><![CDATA[<a href="http://tiny.cc/lock23">Gallerie d'images</a>]]></description>
+		<LookAt>
+			<longitude>-75.17621659182042</longitude>
+			<latitude>44.89322624857277</latitude>
+			<altitude>0</altitude>
+			<heading>-73.68584904435062</heading>
+			<tilt>65.86387279476391</tilt>
+			<range>215.8913299428555</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Placemark>
+			<name>Model</name>
+			<styleUrl>#default</styleUrl>
+			<Model id="model_11">
+				<altitudeMode>relativeToGround</altitudeMode>
+				<Location>
+					<longitude>-75.17629</longitude>
+					<latitude>44.89327300132</latitude>
+					<altitude>48</altitude>
+				</Location>
+				<Orientation>
+					<heading>359.8735448963</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+				</Orientation>
+				<Scale>
+					<x>1</x>
+					<y>1</y>
+					<z>1</z>
+				</Scale>
+				<Link>
+					<href>files/untitled.dae</href>
+				</Link>
+				<ResourceMap>
+					<Alias>
+						<targetHref>texture.jpg</targetHref>
+						<sourceHref>untitled/texture.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>texture_0.jpg</targetHref>
+						<sourceHref>untitled/texture_0.jpg</sourceHref>
+					</Alias>
+					<Alias>
+						<targetHref>texture_1.jpg</targetHref>
+						<sourceHref>untitled/texture_1.jpg</sourceHref>
+					</Alias>
+				</ResourceMap>
+			</Model>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
